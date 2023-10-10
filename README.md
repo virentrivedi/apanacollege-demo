@@ -1,4 +1,4 @@
 # apanacollege-demo
 apanacollege trial demo
 <br>
-author Viren Trivedi
+author Viren A. Trivedi
